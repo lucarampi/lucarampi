@@ -7,7 +7,7 @@
 <p align="center"><i>― J.R.R. Tolkien, The Fellowship of the Ring</i></p>
 
 
-<p align="center"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucarampi&show_icons=true" alt="lucarampi" /></p>
+<p align="center"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucarampi&show_icons=true&bg_color=00000000" alt="lucarampi" /></p>
 
 
 <p align="center">- 🌱 I’m currently learning <strong>React.js, Next.js and Node.js</strong></p>
