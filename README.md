@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucarampi&label=Profile%20views&color=0e75b6&style=flat-square" alt="lucarampi" /> </p>
 <h1 align="center">Hi 👋, I'm Luca!</h1>
-<h3 align="center">A passionate for coding and developing frontend applications</h3>
+<h3 align="center">A passionate for coding and developing solutions</h3>
 <h4 align="center"><strong>Even the very wise cannot see all ends.</strong></h4>
 <p align="center"><i>― J.R.R. Tolkien, The Fellowship of the Ring</i></p>
 
